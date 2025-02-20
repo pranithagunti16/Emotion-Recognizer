@@ -81,6 +81,8 @@ The model can recognize the following emotions:
 - **Angry**
 - **Surprise**
 - **Neutral**
+- **Fear**
+- **disgust**
 
 ---
 
