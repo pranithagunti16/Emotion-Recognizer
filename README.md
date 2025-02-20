@@ -1,5 +1,5 @@
 # Emotion-Recognizer
-Here’s a README template for your **Emotion Recognizer** project:
+
 
 ---
 
@@ -117,10 +117,9 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 For questions or feedback, reach out to:
 
-- **Name**: [Sai Pranitha Gunti]
-- **GitHub**: [https://github.com/pranithagunti16]
-- **Email**: [pranitha.gunti1609@gmail.com]
+- **Name**: Sai Pranitha Gunti
+- **GitHub**: https://github.com/pranithagunti16
+- **Email**: pranitha.gunti1609@gmail.com
 
 ---
 
-Let me know if you'd like to make any changes! 😊
